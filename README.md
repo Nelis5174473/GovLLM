@@ -17,6 +17,7 @@ Each document in the repo includes specific guidelines on its use.
 ## Directory Structure
 - **Data Scraping:** Scripts to extract data from various sources like the Dutch Government Open Data Portal, Tendernet, Woogle, and iBestuur.
 - **Data Processing:** Converts raw data into a structured format suitable for retrieval-augmented generation, using ChromaDB vector databases.
+- **Model Finetuning:** Uses transformers to finetune the model.
 - **Model:** Run the LLM with different configurations to operationalize the GTMI benchmark.
 - **Results:** Contains the data of model operationalizations across different configurations.
 - **Evaluation:** Analyzes outcomes and generates visualizations to demonstrate the model's accuracy in applying the GTMI-benchmark.
