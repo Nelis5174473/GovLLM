@@ -32,5 +32,5 @@ This project is open and freely usable by everyone. There is no specific license
 This project was carried out by B. Nieuwschepen and C. Snoeij as part of their master thesis project for the Master of Engineering and Policy Analysis at TU Delft, from October 2023 to June 2024.
 
 ## Contact
-For more information about this project, please send an email to [C. Snoeij](mailto:cornesnoeij@gmail.com).
+For more information about this project, please send an email to [C. Snoeij](mailto:cornesnoeij+github@gmail.com).
 
